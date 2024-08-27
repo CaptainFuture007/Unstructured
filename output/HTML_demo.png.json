@@ -1,0 +1,325 @@
+[
+  {
+    "type": "Title",
+    "element_id": "f316ff673c8b36629a5381bb959ea9c6",
+    "text": "Effortless Document Extraction: A Guide to Using Unstructured API and Data Connectors",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "185bf4e24afb69e9c5418240cacaf9f8",
+    "text": ".",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2c50f043e93d3bcf2d8e02e35133b404",
+    "text": "Unstructured",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7646be3238c020bfaecb9b183e334c24",
+    "text": "Published in Unstructured - 4 minread - Jul 21,2023",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2c50f043e93d3bcf2d8e02e35133b404",
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d02abafaa45474c87212cd2bc866b251",
+    "text": "",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5333a30e28a41906892cc25fd591352c",
+    "text": "7",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "08068cb987d5c0bc9e40c912613b5d7e",
+    "text": "Q",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "47959e4f698cac1b739eb964e0c5f91c",
+    "text": "3",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "08068cb987d5c0bc9e40c912613b5d7e",
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "93d862dffa56485e0d0f935125ea7429",
+    "text": "\u00ae",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "08068cb987d5c0bc9e40c912613b5d7e",
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9430b63a1f59ae1de2afc39389db064f",
+    "text": "O",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4faeb02a9726bd2b7ec182823143b9b5",
+    "text": "In the vast digital universe, data is the lifeblood that drives decision-making and innovation. But not all data is created equal. Unstructured data in images and documents often hold a wealth of information that can be challenging to extract and analyze.",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "9430b63a1f59ae1de2afc39389db064f",
+      "filename": "HTML_demo.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/HTML_demo.png"
+        },
+        "date_created": "1724446589.6952004",
+        "date_modified": "1724446589.9106789",
+        "date_processed": "1724528118.626621",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 194596
+      }
+    }
+  }
+]

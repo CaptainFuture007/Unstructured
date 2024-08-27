@@ -1,0 +1,967 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "9c8c88cbd1e47570a7a2f6c1f7c6f407",
+    "text": "CNN 1/30/2024",
+    "metadata": {
+      "link_texts": [
+        "CNN"
+      ],
+      "link_urls": [
+        "/"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "59ccbc90ebfb66e3a24673e8c269284d",
+    "text": "A potent pair of atmospheric rivers will drench California as El Ni\u00f1o makes its first mark on winter",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7f7f96a1db7c0ee833a7f3b517c18ffc",
+    "text": "By Mary Gilbert, CNN Meteorologist",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c798a88c81ba5d7bb3a19f580e6e1cd7",
+    "text": "Updated: 3:49 PM EST, Tue January 30, 2024",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f182c2eb3b38e6ecc48505f16b257893",
+    "text": "Source: CNN",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afe6c0f6d12e18544afa257ca44b14c3",
+    "text": "A potent pair of atmospheric river-fueled storms are about to unleash a windy and incredibly wet week in California in what is the first clear sign of the influence El Ni\u00f1o was expected to have on the state this winter.",
+    "metadata": {
+      "link_texts": [
+        "atmospheric river",
+        "El Ni\u00f1o"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/2023/03/09/weather/what-is-an-atmospheric-river-xpn/index.html",
+        "https://www.cnn.com/2023/07/14/weather/what-is-el-nino-xpn/index.html"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "09cc35409cfba48a51165b4d552b1dbd",
+    "text": "The soaking storms will raise the flood threat across much of California into next week, but it appears the wet pattern is likely to continue well into February as a more typical El Ni\u00f1o pattern kicks into gear.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a22d7b990709eaa4265332c275dc8b7",
+    "text": "El Ni\u00f1o \u2013 a natural phenomenon in the tropical Pacific that influences weather around the globe \u2013 causes changes in the jet stream that can point storms directly at California. Storms can also tap into an extra-potent supply of moisture from the tropics called an atmospheric river.",
+    "metadata": {
+      "link_texts": [
+        "natural phenomenon"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/2023/10/19/us/noaa-winter-weather-outlook-climate/index.html"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "919805dcf974e293ce4fd457c7287c2e",
+    "text": "El Ni\u00f1o hasn\u2019t materialized many atmospheric rivers for California so far this winter, with most hitting the Pacific Northwest.",
+    "metadata": {
+      "link_texts": [
+        "the Pacific Northwes"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/2023/12/05/weather/pacific-northwest-atmospheric-rivers-rain-tuesday/index.html"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42a0e7d91797c1f0add208aeb1fa4ce4",
+    "text": "But all that is set to change this week.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0bdb154d9150d76b457e59fe4474b6ef",
+    "text": "The first of the two potent atmospheric river storms will develop and point at Northern California Wednesday before sweeping down the state and targeting Southern California Thursday.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b79c41dfdc89e095512202539cb4a617",
+    "text": "The storm will start out very warm \u2013 fueled by moisture from near Hawaii that earns it the moniker of a pineapple express \u2013 and unload mainly rain in all but the absolute highest elevations in Northern California Wednesday. Central California should expect steady rain and gusty winds to begin late Wednesday and continue into Thursday.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "629872395ad19e42433ecd2052e19d24",
+    "text": "Steady rainfall and periods of stronger winds will arrive in Southern California by Thursday morning. At the same time, much cooler air will begin to overspread the state.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c64e4e4f7b1315d57df962a201cc158",
+    "text": "More snow will accumulate and at lower elevations across parts of Northern California and the Sierra Nevada Thursday as cooler temperatures take over. Feet of snow could bury the highest peaks of the Sierras, with at least 6 inches of snow possible for some lower-elevation mountain roadways.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d87b1d4e179b687110662219c5b2cd71",
+    "text": "The snow is welcomed for California\u2019s snowpack, which has been beleaguered by warmth and storms that have brought more rain than snow. This winter\u2019s snowpack is just 52% of average for this time of year, according to the latest survey conducted by the state\u2019s Department of Water Resources Tuesday. Snowpack is a vital water source, and the survey helps California to forecast how much water will be available for the rest of the year.",
+    "metadata": {
+      "link_texts": [
+        "This winter\u2019s snowpack"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/2024/01/11/climate/west-snow-water-reservoirs-climate/index.html"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9cec651f4bdd75dc2350da27c8100e4c",
+    "text": "A few thunderstorms could rumble to life in the western half of California on Thursday and may produce bursts of heavier rain. A series of torrential thunderstorms fueled a prolific rainfall event that plunged San Diego underwater last week.",
+    "metadata": {
+      "link_texts": [
+        "San Diego underwater"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/2024/01/23/weather/rain-ice-storm-flooding-forecast-tuesday/index.html"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ade5588df2e7266b75ec8c14c22e5c2b",
+    "text": "Flooding is possible across a significant portion of California Wednesday and Thursday. A Level 2 out of 4 risk of excessive rainfall is in place Wednesday for portions of Northern and Central California, according to the Weather Prediction Center. The same risk level exits Thursday for Southern California as the rain shifts south.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a572876da5a489ee272faf5342b6b54c",
+    "text": "Roadways and low-lying areas are at the most risk for flooding, but rises on some waterways are possible.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75bc97e009656f1231a8043a5ac448ac",
+    "text": "Showery weather will linger across much of California Friday as moisture slowly pushes out and across the Southwest.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+    "text": "More potent atmospheric river event arrives Sunday",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f182c2eb3b38e6ecc48505f16b257893",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a946395e4e5b1feecb83924feccfc70",
+    "text": "Respite from soaking weather in California will be brief: a second, more potent atmospheric river-fueled storm is expected to arrive Sunday.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "566f9784df1325045957942403060ca6",
+    "text": "Full details on this storm are still coming into focus, but forecast models are pointing to a more widespread and prolonged flood threat, especially for Southern California. At the very least, another few days of rain and snow are likely across the rest of the state.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f4aa83d6978395a7963309587214a766",
+    "text": "The second storm looks to tap into even more robust moisture from an atmospheric river than the first, with the potential to stall over the region and unload several inches of rain from Sunday to around midweek.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c50e2e286e97f91024416360cde6887",
+    "text": "Temperatures are also likely to start out much cooler with this storm than with the first storm, with more snow possible down to mountain pass levels or potentially even lower elevations.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b3a82cbb9bf575059236b5cc1da7fb09",
+    "text": "A wet, cooler pattern is likely to extend well after the second atmospheric river wraps up.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "82e3b49660218be07937e18afab81257",
+    "text": "Below average temperatures and above average precipitation amounts are likely to persist into mid-February, according to outlooks produced by the Climate Prediction Center.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5bc6df9cfaaa707f5986663ea2cff4a",
+    "text": "CNN\u2019s Stephanie Elam contributed to this report",
+    "metadata": {
+      "emphasized_text_contents": [
+        "CNN\u2019s Stephanie Elam contributed to this report"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d83f0f3ebf4d7236bc47e966eebc4d92",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "eab317f9d5d08b0788d88da30484599e",
+    "text": "See Full Web Article",
+    "metadata": {
+      "category_depth": 0,
+      "link_texts": [
+        "See Full Web Article"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/2024/01/30/weather/california-pineapple-express-storm-flooding-climate/index.html"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79cb1638e03326890c2fbd8991b1b203",
+    "text": "Go to the full CNN experience",
+    "metadata": {
+      "link_texts": [
+        "Go to the full CNN experience"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "eab317f9d5d08b0788d88da30484599e",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "91f5fef92e45249a4706950da95f2efc",
+    "text": "\u00a9 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "eab317f9d5d08b0788d88da30484599e",
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "23924ad8451aeba561dd1a7eea6dcf32",
+    "text": "Terms of Use | Privacy Policy | Ad Choices | Cookie Settings",
+    "metadata": {
+      "category_depth": 0,
+      "link_texts": [
+        "Terms of Use",
+        "Privacy Policy",
+        "Ad Choices"
+      ],
+      "link_urls": [
+        "https://www.cnn.com/terms",
+        "https://www.warnermediaprivacy.com/policycenter/b2c/WMNS/",
+        "https://www.warnermediaprivacy.com/policycenter/b2c/WMNS/"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "el_nino.html",
+      "filetype": "text/html",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/el_nino.html"
+        },
+        "date_created": "1724446799.5377285",
+        "date_modified": "1724446799.541725",
+        "date_processed": "1724528118.621558",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 54735
+      }
+    }
+  }
+]

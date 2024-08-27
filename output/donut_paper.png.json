@@ -1,0 +1,150 @@
+[
+  {
+    "type": "Header",
+    "element_id": "53c791c4465a28a7b6034f46b3f2cb79",
+    "text": "OCR-free Document Understanding Transformer",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_paper.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_paper.png"
+        },
+        "date_created": "1724446368.077133",
+        "date_modified": "1724446368.4036891",
+        "date_processed": "1724528118.627168",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 215806
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64c418b20093de990f39987ec65de663",
+    "text": "Table 1. Classification results on the RVL-CDIP dataset. Donut achieves state-of-the-are performance with reasonable speed and model size efficiency. Donut is a general purpose backbone but does not rely on OCR while other recent backbones (e.g., LayoutLM) do. T# parameters for OCR should be considered for non-E2E models",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "53c791c4465a28a7b6034f46b3f2cb79",
+      "filename": "donut_paper.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_paper.png"
+        },
+        "date_created": "1724446368.077133",
+        "date_modified": "1724446368.4036891",
+        "date_processed": "1724528118.627168",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 215806
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "cea568c7141074f2ea253ad605d64d83",
+    "text": "OCR #Params Time (ms) Accuracy (%) BERT 110M + of 1392 89.81 RoBERTa 125M + aof 1392 90.06 LayoutLM 113M + of 1396 91.78 160M + of 1426 94.42 LayoutLM (w/ image) LayoutLMv2 ENENENENEN 200M + of 1489 95.25 Donut (Proposed) 143M 752 95.30",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th></th><th>OCR #Params</th><th>Time (ms)</th><th>Accuracy (%)</th></tr></thead><tbody><tr><td>BERT</td><td>110M + of</td><td>1392</td><td>89.81</td></tr><tr><td>RoBERTa</td><td>125M + aof ENENENENEN</td><td>1392</td><td>90.06</td></tr><tr><td>LayoutLM</td><td>113M + of</td><td>1396</td><td>91.78</td></tr><tr><td>LayoutLM (w/ image)</td><td>160M + of</td><td>1426</td><td>94.42</td></tr><tr><td>LayoutLMv2</td><td>200M + of</td><td>1489</td><td>95.25</td></tr><tr><td>Donut (Proposed)</td><td>143M</td><td>752</td><td>95.30</td></tr></tbody></table>",
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "53c791c4465a28a7b6034f46b3f2cb79",
+      "filename": "donut_paper.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_paper.png"
+        },
+        "date_created": "1724446368.077133",
+        "date_modified": "1724446368.4036891",
+        "date_processed": "1724528118.627168",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 215806
+      }
+    }
+  },
+  {
+    "type": "PageNumber",
+    "element_id": "d232450883e8b4f7dac3c1e9a11b3e69",
+    "text": "9",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_paper.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_paper.png"
+        },
+        "date_created": "1724446368.077133",
+        "date_modified": "1724446368.4036891",
+        "date_processed": "1724528118.627168",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 215806
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7016872e51f710ccfac5e4548f9f55b",
+    "text": "from le-5 to le-4. The input resolution is set to 2560x1920 and a max length in the decoder is set to 1536. All fine-tuning results are achieved by starting from the pre-trained multi-lingual model. Some hyperparameters are adjusted at fine-tuning and in ablation studies. We use 960x1280 for Train Tickets and Business Card parsing tasks. We fine-tune the model while monitoring the edit distance over token sequences. The speed of Donut is measured on a P40 GPU, which is much slower than A100. For the OCR based baselines, states-of-the-art OCR engines are used, including MS OCR API used in [(4] and CLOVA OCR API\u00ae used in [24,23]. An analysis on OCR engines is available in Section 3.4. More details of OCR and training setups are available in Appendix A.1 and A.5.",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_paper.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_paper.png"
+        },
+        "date_created": "1724446368.077133",
+        "date_modified": "1724446368.4036891",
+        "date_processed": "1724528118.627168",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 215806
+      }
+    }
+  }
+]

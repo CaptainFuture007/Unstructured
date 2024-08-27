@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Image",
+    "element_id": "e926eda16d6adfbf041be74c0aa49eb4",
+    "text": "Donut \u20ac : Document Understanding Transformer Paper arxiv.2111.15664 ECCV 2022 Demo - Demo W pip install donut-python - Downloads - Official Implementation of Donut and SynthDoG | I Introduction Donut \u20ac, Document understanding transformer, is a new method of document understanding that utilizes an OCR-free end-to-end Transformer model. Donut does not require off-the-shelf OCR engines/APlIs, yet it shows state-of-the-art performances on various visual document understanding tasks, such as visual document classification or information extraction (a.k.a. document parsing). In addition, we present SynthDoG &, Synthetic Document Generator, that helps the model pre-training to be flexible on various languages and domains Our academic paper, which describes our method in detail and provides full experimental results and analyses, can be found here i In ECCV 2022 Input Image and Prompt Donut & Output Sequence Converted JSON 000 transformer . b = { \"class\":\"receipt\" } oog encoder <class>receipt</class> \u2014 L </classification> ] { \"questio s the price of choco mochi?\", answel \"} 14,000</answer></vqa> e transformer items' name\": \"3002-Kyoto Choco Mochi decoder <item><name>3002-Kyoto Choco \" coun 2, Mochi</name> </parsing> \"unitprice\": 14000, . -3 } = <parsing>",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_readme.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_readme.png"
+        },
+        "date_created": "1724446368.1274955",
+        "date_modified": "1724446368.5834818",
+        "date_processed": "1724528118.625545",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 639373
+      }
+    }
+  }
+]

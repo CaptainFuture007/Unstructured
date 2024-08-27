@@ -1,0 +1,218 @@
+[
+  {
+    "type": "Title",
+    "element_id": "e53cb06805f45fa23fb6d77966c5ec63",
+    "text": "ChatGPT",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "34a50527166e6765aa3e40778b5764e1",
+    "text": "Chat-GPT: AI Chatbot, developed by OpenAI,\u00a0trained to perform conversational tasks and\u00a0creative tasks",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e53cb06805f45fa23fb6d77966c5ec63",
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "631df69dff044f977d66d71c5cbdab83",
+    "text": "Backed by GPT-3.5 model (gpt-35-turbo), GPT-4\u00a0models",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e53cb06805f45fa23fb6d77966c5ec63",
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ac7cc52b0b2842ce7803bb176add0fb",
+    "text": "Trained over 175 billion machine learning parameters",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e53cb06805f45fa23fb6d77966c5ec63",
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "01133c5465c85564ab1e39568d8b51f5",
+    "text": "Conversation-in and message-out\u00a0",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e53cb06805f45fa23fb6d77966c5ec63",
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d495819227b92f341fb4b58d723a497",
+    "text": "Note: Chat Completion API for GPT-4 models",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e53cb06805f45fa23fb6d77966c5ec63",
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e450241caa0f39c30939a474bcff06ac",
+    "text": "GPT-4 is multimodal (e.g., images + text)",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "msft_openai.pptx",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e53cb06805f45fa23fb6d77966c5ec63",
+      "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/msft_openai.pptx"
+        },
+        "date_created": "1724446800.1013968",
+        "date_modified": "1724446801.1942325",
+        "date_processed": "1724528118.624994",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 3405162
+      }
+    }
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "type": "Title",
+    "element_id": "2e8b3b01cc84d7ffb8958ee232db8ee9",
+    "text": "References",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7afb631d7120db7ce30e41041442de23",
+    "text": "1. Afzal, M.Z., Capobianco, S., Malik, M., Marinai, S., Breuel, T.M., Dengel, A., Liwicki, M.: Deepdocclassifier: Document classification with deep convolutional neural network. In: 2015 13th International Conference on Document Analysis and Recognition (ICDAR). pp. 1111-1115 (2015). https://doi.org/10.1109/ICDAR.2015.7333933 1, 4, 14",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2e8b3b01cc84d7ffb8958ee232db8ee9",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79241b663d42169a1afabdb08f138ed6",
+    "text": "Appalaraju, S., Jasani, B., Kota, B.U., Xie, Y., Manmatha, R.: Docformer: End-to- end transformer for document understanding. In: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). pp. 993-1003 (October 2021) 14",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2e8b3b01cc84d7ffb8958ee232db8ee9",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4eca819b0d74691600ceadb6915dc82",
+    "text": "Baek, J., Kim, G., Lee, J., Park, S., Han, D., Yun, S., Oh, S.J., Lee, H.: What is wrong with scene text recognition model comparisons? dataset and model analysis. In: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) (October 2019) 2, 4, 9, 13, 22",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2e8b3b01cc84d7ffb8958ee232db8ee9",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f16a6902d6913d8d2e2c437fab2738b8",
+    "text": "Baek, Y., Lee, B., Han, D., Yun, S., Lee, H.: Character region awareness for text detection. In: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recog- nition (CVPR). pp. 9357-9366 (2019). https://doi.org/10.1109/CVPR.2019.00959 2,4,9,13, 22",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2e8b3b01cc84d7ffb8958ee232db8ee9",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e222750d6f97c94987c24867eab53435",
+    "text": "",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2e8b3b01cc84d7ffb8958ee232db8ee9",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "76972d3f106385dd638175efbbd7e220",
+    "text": "o",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ac1dd9153507a419ab5246dbe491189b",
+    "text": "B",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f706c53b96f9f649bdaf2f0fad7fc183",
+    "text": "N",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2927d81e0e70d3211bc86197f0fe8501",
+    "text": "B",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ad98d8c815eddabdb2db4eeee54b6895",
+    "text": "B",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5b10008a1baf541c1c90d99e8c7f0ec",
+    "text": "",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "ad98d8c815eddabdb2db4eeee54b6895",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aafacc75390b5f1a6492fa6b149e6423",
+    "text": "a",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d814b9d5f0d5be01726441e577336b88",
+    "text": "",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "aafacc75390b5f1a6492fa6b149e6423",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "81b551b120f5ca1f14068d128aaae40b",
+    "text": "o",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2890c62310a6d033fb26a3d65a553cb3",
+    "text": "o",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fef9b1dd4736742ef6fb4aba4389c95f",
+    "text": "",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "parent_id": "2890c62310a6d033fb26a3d65a553cb3",
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "69d5f38b6e2dce197650e06e7a47e4e6",
+    "text": "N",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1ae7c16cf2b3b3a5b4da2caea778cdee",
+    "text": "B",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_references.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_references.png"
+        },
+        "date_created": "1724446368.070602",
+        "date_modified": "1724446368.3646145",
+        "date_processed": "1724528118.6260722",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 167601
+      }
+    }
+  }
+]

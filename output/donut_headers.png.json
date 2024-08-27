@@ -1,0 +1,60 @@
+[
+  {
+    "type": "NarrativeText",
+    "element_id": "c3cd7d523d49ab4d2bdbf7c563c78722",
+    "text": "OCR-free Document Understanding Transformer",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_headers.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_headers.png"
+        },
+        "date_created": "1724446364.0598865",
+        "date_modified": "1724446364.127043",
+        "date_processed": "1724528118.628267",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 61007
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b921e4e6d4f4627f66ae22322d6754b8",
+    "text": "languages with complex character sets, such as Korean or Chinese, where the quality of OCR is relatively low [50]. To deal with this, post-OCR correction module [51,50,10] is usually adopted. However, it is not a practical solution for real application environments since it increases the entire system size and main- tenance cost.",
+    "metadata": {
+      "filetype": "image/png",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "donut_headers.png",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "path": "/Users/marcushausch/Documents/Projects/Unstructured/images/donut_headers.png"
+        },
+        "date_created": "1724446364.0598865",
+        "date_modified": "1724446364.127043",
+        "date_processed": "1724528118.628267",
+        "permissions_data": [
+          {
+            "mode": 33188
+          }
+        ],
+        "filesize_bytes": 61007
+      }
+    }
+  }
+]
